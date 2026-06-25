@@ -19,13 +19,11 @@
 - 主要方向：深度学习、计算机视觉、目标检测、多模态、自监督学习、CUDA 编程
 - 内容风格：精心制作课件，以最直观的图示把论文、源码、训练流程讲清楚，尽量让复杂方法变得易理解、可复现、可迁移、可落地。
 
----
 
 ### 内容系列
 [![Bilibili](https://img.shields.io/badge/Bilibili-Enzo__Mi-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/94779326)
 - [深度学习基础系列课程](https://www.bilibili.com/video/BV1jM4m1176F/)
-- [YOLO系列课程](https://www.bilibili.com/video/BV1ec411T7Rh/)
-- [YOLO26 课程](https://www.bilibili.com/video/BV1ULF5zBEnz/)
+- [YOLO系列课程](https://www.bilibili.com/video/BV1ec411T7Rh/) ｜ [YOLO26 课程](https://www.bilibili.com/video/BV1ULF5zBEnz/)
 - [Transformer & DETR 系列课程](https://www.bilibili.com/video/BV1qo4y1F7Ep/)
 - [DINO 系列课程](https://www.bilibili.com/video/BV1Q74HzeEBY/)
 - [多模态 系列课程](https://www.bilibili.com/video/BV116daB6EC5/)
