@@ -19,8 +19,6 @@
 - 主要方向：深度学习、计算机视觉、目标检测、多模态、自监督学习、CUDA 编程
 - 内容风格：精心制作课件，以最直观的图示把论文、源码、训练流程讲清楚，尽量让复杂方法变得易理解、可复现、可迁移、可落地。
 
-<br>
-
 ---
 
 ### 内容系列
@@ -36,12 +34,3 @@
 - [Mamba 系列课程](https://www.bilibili.com/video/BV1n7421d7xG/)
 
 
-
----
-
-<div align="center">
-
-从论文到代码，从实验到工程  
-From papers to code, from experiments to engineering.
-
-</div>
